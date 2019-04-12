@@ -1,0 +1,4 @@
+CREATE DATABASE bizzbee;
+
+CREATE ROLE bizzbee WITH LOGIN PASSWORD 'bizzbee';
+GRANT ALL PRIVILEGES ON DATABASE bizzbee TO bizzbee;

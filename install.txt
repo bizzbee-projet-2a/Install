@@ -1,0 +1,16 @@
+Creer un compte TheThingsNetwork
+Creer application en spécifiant seulement un nom
+
+URL vers le site Bizzbee local (activer dyndns + ouverture ports)
+(https://readwrite.com/2014/06/27/raspberry-pi-web-server-website-hosting/)
+Heberge site Bizzbee
+	Installer raspbian
+	Dl dossier install
+
+Renseigner identifiants (connexion, url) dans config
+Lancer install.sh
+
+
+
+
+
